@@ -1,4 +1,6 @@
 # dfa-minimization
+![Python Version](https://img.shields.io/badge/python-3.9-blue)
+
 # DFA Minimization Project
 
 This repository contains a Python implementation of Deterministic Finite Automaton (DFA) minimization. The goal of this project is to optimize DFA states by removing unreachable states and merging equivalent states.
